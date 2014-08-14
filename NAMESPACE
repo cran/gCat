@@ -1,0 +1,2 @@
+export(gcat.test)
+useDynLib(gCat)
