@@ -1,5 +1,5 @@
-9ca700a15d9c946d6d5faffcce2868e4 *DESCRIPTION
-65fad88a9d68b082091e0dc7492b1df2 *NAMESPACE
+82a6ae3a9aaba0f0ecddb3446b8f1b0a *DESCRIPTION
+0431bedc919ffca3309a0d6beb198886 *NAMESPACE
 ae934add2383ed1f6275838d1afb3ab6 *R/basic_function2.r
 5665712ac696af54abe9e7fe63bb2c65 *R/gcat.r
 7f28090bceee330f2df571a302a79976 *data/Example.rda
@@ -8,5 +8,6 @@ ae934add2383ed1f6275838d1afb3ab6 *R/basic_function2.r
 54eb6b6e4a15714f9597db839e65510d *man/mycounts.Rd
 c3ca04c0ab8b98d3f3b8e486e9651c76 *man/mydist.Rd
 2f3920b9ebefb2e79ba3190d26a157cd *man/myedge.Rd
+7c22b1b500cab25872924e218f1645f5 *src/registerDynamicSymbol.c
 dfdfec1da44993ac5f3f5b10ce8a2de7 *src/tree.cpp
 52fc5f466ec915be62c2c486d3aba56c *src/tree.h
